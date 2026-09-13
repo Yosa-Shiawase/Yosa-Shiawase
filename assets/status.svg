@@ -22,7 +22,6 @@
   <text x="600" y="62" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="26" font-weight="bold" letter-spacing="8" fill="#ffd76a">STATUS WINDOW</text>
   <line x1="300" y1="54" x2="430" y2="54" stroke="#e8c46a" stroke-width="1.5" opacity="0.7"/>
   <line x1="770" y1="54" x2="900" y2="54" stroke="#e8c46a" stroke-width="1.5" opacity="0.7"/>
-  <text x="940" y="66" font-size="20" fill="#e8c46a">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
   <text x="70" y="112" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" letter-spacing="4" fill="#b9a5ff">STATS</text>
   <rect x="64" y="126" width="520" height="46" rx="9" fill="#f7f3ea"/>
   <text x="86" y="155" font-size="13" letter-spacing="2" fill="#7a6a95" font-family="Trebuchet MS, Verdana, sans-serif">NAME</text>
