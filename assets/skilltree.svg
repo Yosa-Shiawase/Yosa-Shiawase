@@ -48,8 +48,8 @@
     <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.6s" fill="freeze"/>
     <text x="600" y="176" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="18" font-weight="bold" fill="#20201e" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">DATA / AI</text>
     <text x="600" y="204" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">AI-ML · Image Processing</text>
-    <text x="600" y="228" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">RAG <tspan fill="#8a5cf6">(loading…)</tspan></text>
-    <text x="600" y="252" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">Power BI <tspan fill="#8a5cf6">(loading…)</tspan></text>
+    <text x="600" y="228" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">RAG <tspan fill="#8a5cf6">(loading…<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>)</tspan></text>
+    <text x="600" y="252" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">Power BI <tspan fill="#8a5cf6">(loading…<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>)</tspan></text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.6s" fill="freeze"/>
@@ -75,8 +75,8 @@
     <text x="1038" y="336" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="18" font-weight="bold" fill="#20201e" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">TARGET LOCK</text>
     <text x="1038" y="364" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">Cybersecurity</text>
     <text x="1038" y="388" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round">blue team fundamentals</text>
-    <text x="1038" y="412" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round"><tspan fill="#8a5cf6">(equipping…)</tspan></text>
+    <text x="1038" y="412" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round"><tspan fill="#8a5cf6">(equipping…<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>)</tspan></text>
   </g>
 
-  <text x="1160" y="645" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">still growing…</text>
+  <text x="1160" y="645" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">still growing…<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></text>
 </svg>
