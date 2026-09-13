@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="Skill tree of Hitesh Sharma">
   <rect width="1200" height="680" fill="#f6f0e1"/>
   <rect x="30" y="8" width="120" height="26" fill="#e7dcbf" transform="rotate(-4 90 21)"/>
-  <rect x="1050" y="646" width="120" height="26" fill="#e7dcbf" transform="rotate(-4 1110 659)"/>
+  <rect x="1050" y="647" width="120" height="26" fill="#e7dcbf" transform="rotate(-4 1110 659)"/>
   <rect x="18" y="18" width="1164" height="644" rx="12" fill="none" stroke="#20201e" stroke-width="3"/>
   <rect x="30" y="30" width="1140" height="620" rx="9" fill="none" stroke="#20201e" stroke-width="1" opacity="0.4"/>
   <text x="600" y="58" text-anchor="middle" font-family="'Segoe Print','Bradley Hand',cursive" font-size="34" font-weight="700" fill="#20201e">Skill Tree</text>
   <text x="600" y="86" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#6b6557">roots in curiosity · watered by dead-night commits</text>
-  <text x="1120" y="58" font-size="20" fill="#b98f2e">✦<animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" repeatCount="indefinite"/></text>
-
   <path d="M600 648 C 585 632 565 636 552 646" fill="none" stroke="#20201e" stroke-width="4" stroke-linecap="round"/>
   <path d="M600 648 C 615 634 640 638 652 648" fill="none" stroke="#20201e" stroke-width="4" stroke-linecap="round"/>
   <path d="M600 640 C 594 600 606 560 600 522" fill="none" stroke="#20201e" stroke-width="5" stroke-linecap="round" stroke-dasharray="140" stroke-dashoffset="140">
@@ -80,5 +78,5 @@
     <text x="1038" y="412" text-anchor="middle" font-family="Verdana, 'Trebuchet MS', sans-serif" font-size="14" fill="#4a463c" paint-order="stroke" stroke="#f6f0e1" stroke-width="5" stroke-linejoin="round"><tspan fill="#8a5cf6">(equipping…)</tspan></text>
   </g>
 
-  <text x="1160" y="660" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">still growing…</text>
+  <text x="1160" y="645" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">still growing…</text>
 </svg>
