@@ -6,7 +6,6 @@
   <rect x="30" y="30" width="740" height="860" rx="9" fill="none" stroke="#20201e" stroke-width="1" opacity="0.4"/>
   <text x="400" y="64" text-anchor="middle" font-family="'Segoe Print','Bradley Hand',cursive" font-size="38" font-weight="700" fill="#20201e">Skill Tree</text>
   <text x="400" y="96" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#6b6557">roots in curiosity · watered by dead-night commits</text>
-  <text x="556" y="58" font-size="22" fill="#b98f2e">✦<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3s" repeatCount="indefinite"/></text>
 
   <path d="M400 856 C 384 870 362 874 346 866" fill="none" stroke="#20201e" stroke-width="4" stroke-linecap="round"/>
   <path d="M400 856 C 416 872 440 876 456 866" fill="none" stroke="#20201e" stroke-width="4" stroke-linecap="round"/>
