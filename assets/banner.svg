@@ -6,25 +6,25 @@
     <animate attributeName="stroke-dashoffset" from="2850" to="0" dur="2.4s" fill="freeze"/>
   </rect>
   <rect x="28" y="28" width="1144" height="244" rx="8" fill="none" stroke="#20201e" stroke-width="1.2" opacity="0.5" transform="rotate(0.25 600 150)"/>
-  <text x="66" y="122" font-family="'Segoe Print','Bradley Hand',cursive" font-size="58" font-weight="700" fill="#20201e">Yosa Shiawase</text>
-  <text x="548" y="122" font-size="58" fill="#8a5cf6" font-family="monospace">_
+  <text x="66" y="120" font-family="'Segoe Print','Bradley Hand',cursive" font-size="68" font-weight="700" fill="#20201e">Yosa Shiawase</text>
+  <text x="600" y="120" font-size="68" fill="#8a5cf6" font-family="monospace">_
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </text>
-  <text x="66" y="160" font-family="Trebuchet MS, Verdana, sans-serif" font-size="18" letter-spacing="2" fill="#4a463c">HITESH SHARMA · ART · POETRY · ANIME &amp; MANHWA · CODE &amp; EDITING</text>
-  <text x="66" y="198" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#6b6557">💫 Just another line committed in the dead of night,</text>
-  <text x="66" y="224" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#6b6557">erasing my own shadow so the screen stays bright. 🍃</text>
-  <text x="66" y="256" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#8a5cf6">:-must. high-five ♡</text>
-  <rect x="880" y="40" width="284" height="214" rx="14" fill="#241b3a" stroke="#b9a5ff" stroke-width="2"/>
-  <rect x="888" y="48" width="268" height="198" rx="10" fill="none" stroke="#8f7bd8" stroke-width="1" opacity="0.6"/>
-  <rect x="880" y="40" width="70" height="214" fill="#ffffff" opacity="0.08">
-    <animate attributeName="x" values="880;1094" dur="2.8s" repeatCount="indefinite"/>
+  <text x="66" y="164" font-family="Trebuchet MS, Verdana, sans-serif" font-size="20" letter-spacing="0.5" fill="#4a463c">HITESH SHARMA · ART · POETRY · ANIME &amp; MANHWA · CODE &amp; EDITING</text>
+  <text x="66" y="204" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#6b6557">💫 Just another line committed in the dead of night,</text>
+  <text x="66" y="234" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#6b6557">erasing my own shadow so the screen stays bright. 🍃</text>
+  <text x="66" y="262" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#8a5cf6">— must. high-five ♡</text>
+  <rect x="868" y="36" width="296" height="226" rx="14" fill="#241b3a" stroke="#b9a5ff" stroke-width="2"/>
+  <rect x="876" y="44" width="280" height="210" rx="10" fill="none" stroke="#8f7bd8" stroke-width="1" opacity="0.6"/>
+  <rect x="868" y="36" width="74" height="226" fill="#ffffff" opacity="0.08">
+    <animate attributeName="x" values="868;1090" dur="2.8s" repeatCount="indefinite"/>
   </rect>
-  <text x="1022" y="72" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="18" letter-spacing="4" fill="#d9ccff">STATUS WINDOW</text>
-  <line x1="912" y1="84" x2="1132" y2="84" stroke="#8f7bd8" stroke-width="1"/>
-  <text x="912" y="112" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">NAME · HITESH SHARMA</text>
-  <text x="912" y="138" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">CLASS · CYBER ANALYST <tspan fill="#8f7bd8">↑</tspan></text>
-  <text x="912" y="164" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">GUILD · KCC INST. OF TECH.</text>
-  <text x="912" y="190" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">INT S · WIS SS · POT <tspan fill="#ffd76a">EX</tspan></text>
-  <text x="912" y="216" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">HP · <tspan fill="#ff8a8a">ERROR — sleep not found</tspan></text>
-  <text x="912" y="242" font-family="Trebuchet MS, sans-serif" font-size="15" fill="#efeaff">LV · ?? <tspan fill="#8f7bd8">(grinding)</tspan></text>
+  <text x="1016" y="72" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="20" font-weight="bold" letter-spacing="3" fill="#d9ccff">STATUS WINDOW</text>
+  <line x1="896" y1="86" x2="1136" y2="86" stroke="#8f7bd8" stroke-width="1"/>
+  <text x="898" y="114" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">NAME · HITESH SHARMA</text>
+  <text x="898" y="140" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">CLASS · CYBER ANALYST <tspan fill="#8f7bd8">↑</tspan></text>
+  <text x="898" y="166" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">GUILD · KCC INST. OF TECH.</text>
+  <text x="898" y="192" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">INT S · WIS SS · POT <tspan fill="#ffd76a">EX</tspan></text>
+  <text x="898" y="218" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">HP · <tspan fill="#ff8a8a">ERROR — sleep not found</tspan></text>
+  <text x="898" y="244" font-family="Trebuchet MS, sans-serif" font-size="17" fill="#efeaff">LV · ?? <tspan fill="#8f7bd8">(grinding)</tspan></text>
 </svg>
