@@ -1,31 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Quest log of Hitesh Sharma">
-  <rect width="1200" height="540" fill="#f6f0e1"/>
-  <rect x="30" y="8" width="120" height="26" fill="#e7dcbf" transform="rotate(-4 90 21)"/>
-  <rect x="1050" y="506" width="120" height="26" fill="#e7dcbf" transform="rotate(-4 1110 519)"/>
-  <rect x="18" y="18" width="1164" height="504" rx="12" fill="none" stroke="#20201e" stroke-width="3"/>
-  <rect x="30" y="30" width="1140" height="480" rx="9" fill="none" stroke="#20201e" stroke-width="1" opacity="0.4"/>
-  <text x="600" y="66" text-anchor="middle" font-family="'Segoe Print','Bradley Hand',cursive" font-size="34" font-weight="700" fill="#20201e">Quest Log</text>
-  <text x="600" y="94" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#6b6557">claim a slot by committing · rewards: XP + bragging rights</text>
-  <rect x="90" y="120" width="26" height="26" rx="4" fill="none" stroke="#20201e" stroke-width="2.5" transform="rotate(-3 103 133)"/>
-  <path d="M94 131 l8 9 l15 -17" fill="none" stroke="#20201e" stroke-width="3.5" stroke-linecap="round"/>
-  <text x="140" y="140" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" fill="#4a463c">survived first year <tspan font-style="italic" fill="#6b6557">(barely)</tspan></text>
-  <rect x="90" y="172" width="26" height="26" rx="4" fill="none" stroke="#20201e" stroke-width="2.5" transform="rotate(-3 103 185)"/>
-  <text x="140" y="192" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" fill="#20201e"><tspan font-weight="bold">MAIN QUEST</tspan> — become a cyber analyst <tspan fill="#8a5cf6">(in progress…<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>)</tspan></text>
-  <rect x="90" y="224" width="26" height="26" rx="4" fill="none" stroke="#20201e" stroke-width="2.5" transform="rotate(-3 103 237)"/>
-  <text x="140" y="244" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" fill="#20201e"><tspan font-weight="bold">AEROMODELING</tspan> — make something fly that isn't a deadline</text>
-  <rect x="90" y="276" width="26" height="26" rx="4" fill="none" stroke="#20201e" stroke-width="2.5" transform="rotate(-3 103 289)"/>
-  <text x="140" y="296" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" fill="#20201e"><tspan font-weight="bold">404 PROJECT</tspan> — <tspan font-style="italic">the page wandered off,No problem</tspan></text>
-  <text x="90" y="372" font-family="Trebuchet MS, Verdana, sans-serif" font-size="13" letter-spacing="4" fill="#6b6557">OPEN SLOTS</text>
-  <rect x="90" y="390" width="330" height="104" rx="10" fill="none" stroke="#20201e" stroke-width="2" stroke-dasharray="10 8"/>
-  <path d="M128 428 h30 M143 413 v30" stroke="#20201e" stroke-width="3" stroke-linecap="round"/>
-  <text x="178" y="432" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" font-weight="bold" fill="#20201e">SLOT 01</text>
-  <text x="110" y="470" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">sealed — a project stirs in the dark</text>
-  <rect x="450" y="390" width="330" height="104" rx="10" fill="none" stroke="#20201e" stroke-width="2" stroke-dasharray="10 8"/>
-  <path d="M488 428 h30 M503 413 v30" stroke="#20201e" stroke-width="3" stroke-linecap="round"/>
-  <text x="538" y="432" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" font-weight="bold" fill="#20201e">SLOT 02</text>
-  <text x="470" y="470" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">locked — level up to unlock</text>
-  <rect x="810" y="390" width="330" height="104" rx="10" fill="none" stroke="#20201e" stroke-width="2" stroke-dasharray="10 8"/>
-  <text x="848" y="436" font-family="Trebuchet MS, Verdana, sans-serif" font-size="22" font-weight="bold" fill="#8a5cf6">???<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
-  <text x="830" y="470" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#6b6557">fate has not rendered this quest yet</text>
-  <text x="600" y="524" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6b6557">next slot unlocks the day you push something new</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1040" viewBox="0 0 560 1040" role="img" aria-label="Quest log of Hitesh Sharma">
+  <defs>
+    <linearGradient id="qbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b1c4d"/>
+      <stop offset="1" stop-color="#191029"/>
+    </linearGradient>
+    <linearGradient id="qholo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#cbb3ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="qcard"><rect width="560" height="1040" rx="16"/></clipPath>
+  </defs>
+  <rect width="560" height="1040" rx="16" fill="url(#qbg)"/>
+  <rect x="10" y="10" width="540" height="1020" rx="13" fill="none" stroke="#e8c46a" stroke-width="3"/>
+  <rect x="22" y="22" width="516" height="996" rx="9" fill="none" stroke="#8f7bd8" stroke-width="1.2"/>
+  <g clip-path="url(#qcard)">
+    <rect x="-240" y="0" width="240" height="1040" fill="url(#qholo)">
+      <animate attributeName="x" values="-240;560" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="280" y="68" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="34" font-weight="bold" letter-spacing="6" fill="#ffd76a">QUEST LOG</text>
+  <line x1="92" y1="58" x2="196" y2="58" stroke="#e8c46a" stroke-width="1.5" opacity="0.7"/>
+  <line x1="364" y1="58" x2="468" y2="58" stroke="#e8c46a" stroke-width="1.5" opacity="0.7"/>
+  <text x="488" y="66" font-size="20" fill="#e8c46a">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
+  <text x="280" y="96" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#b9a5ff">claim a slot by committing · rewards: XP + bragging rights</text>
+
+  <rect x="40" y="116" width="480" height="88" rx="10" fill="#ffffff" opacity="0.05"/>
+  <rect x="40" y="116" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="1"/>
+  <g transform="rotate(-3 73 157)">
+    <rect x="60" y="144" width="26" height="26" rx="4" fill="none" stroke="#ffd76a" stroke-width="2.5"/>
+    <path d="M66 157 l8 9 l15 -17" fill="none" stroke="#ffd76a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="40" stroke-dashoffset="40">
+      <animate attributeName="stroke-dashoffset" from="40" to="0" dur="0.5s" begin="0.8s" fill="freeze"/>
+    </path>
+  </g>
+  <text x="104" y="141" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" letter-spacing="3" fill="#ffd76a">CLEARED</text>
+  <text x="104" y="166" font-family="Trebuchet MS, Verdana, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">survived first year <tspan font-style="italic" font-weight="normal" font-size="17" fill="#b9a5ff">(barely)</tspan></text>
+  <text x="104" y="192" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" fill="#cfc3ea">reward claimed: XP + one good story</text>
+
+  <rect x="40" y="220" width="480" height="124" rx="10" fill="#ffd76a" opacity="0.06"/>
+  <rect x="40" y="220" width="480" height="124" rx="10" fill="none" stroke="#ffd76a" stroke-width="1.5"/>
+  <rect x="60" y="238" width="54" height="20" rx="4" fill="#ffd76a"/>
+  <text x="87" y="252" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" font-weight="bold" letter-spacing="2" fill="#241b3a">MAIN</text>
+  <text x="126" y="255" font-family="Trebuchet MS, Verdana, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">become a cyber analyst</text>
+  <text x="60" y="284" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" fill="#cfc3ea">CTFs · TryHackMe · every repo, a step closer</text>
+  <rect x="60" y="304" width="400" height="12" rx="6" fill="#ffffff" opacity="0.08"/>
+  <rect x="60" y="304" width="0" height="12" rx="6" fill="#ffd76a">
+    <animate attributeName="width" from="0" to="140" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="472" y="315" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" font-weight="bold" fill="#ffd76a">35%</text>
+
+  <rect x="40" y="360" width="480" height="88" rx="10" fill="#ffffff" opacity="0.05"/>
+  <rect x="40" y="360" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="1"/>
+  <g transform="rotate(2 73 401)">
+    <rect x="60" y="388" width="26" height="26" rx="4" fill="none" stroke="#b9a5ff" stroke-width="2.5"/>
+  </g>
+  <text x="104" y="385" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" letter-spacing="3" fill="#b9a5ff">SIDE QUEST</text>
+  <text x="104" y="410" font-family="Trebuchet MS, Verdana, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">aeromodeling</text>
+  <text x="104" y="436" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" fill="#cfc3ea">make something fly that isn't a deadline</text>
+
+  <rect x="40" y="464" width="480" height="88" rx="10" fill="#ffffff" opacity="0.05"/>
+  <rect x="40" y="464" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="1"/>
+  <g transform="rotate(-3 73 505)">
+    <rect x="60" y="492" width="26" height="26" rx="4" fill="none" stroke="#b9a5ff" stroke-width="2.5"/>
+  </g>
+  <text x="104" y="489" font-family="Trebuchet MS, Verdana, sans-serif" font-size="12" letter-spacing="3" fill="#b9a5ff">SIDE QUEST</text>
+  <text x="104" y="514" font-family="Trebuchet MS, Verdana, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">404 project</text>
+  <text x="104" y="540" font-family="Trebuchet MS, Verdana, sans-serif" font-size="16" font-style="italic" fill="#cfc3ea">the page wandered off — no problem, it left a note</text>
+
+  <text x="40" y="596" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15" letter-spacing="4" fill="#b9a5ff">OPEN SLOTS</text>
+  <line x1="160" y1="591" x2="520" y2="591" stroke="#8f7bd8" stroke-width="1" opacity="0.5"/>
+
+  <rect x="40" y="610" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="2" stroke-dasharray="10 8"/>
+  <path d="M74 654 h30 M89 639 v30" stroke="#ffd76a" stroke-width="3" stroke-linecap="round"/>
+  <text x="122" y="648" font-family="Trebuchet MS, Verdana, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">SLOT 01</text>
+  <text x="122" y="676" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#b9a5ff">sealed — a project stirs in the dark</text>
+
+  <rect x="40" y="710" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="2" stroke-dasharray="10 8"/>
+  <path d="M74 754 h30 M89 739 v30" stroke="#ffd76a" stroke-width="3" stroke-linecap="round"/>
+  <text x="122" y="748" font-family="Trebuchet MS, Verdana, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">SLOT 02</text>
+  <text x="122" y="776" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#b9a5ff">locked — level up to unlock</text>
+
+  <rect x="40" y="810" width="480" height="88" rx="10" fill="none" stroke="#8f7bd8" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="60" y="852" font-family="Trebuchet MS, Verdana, sans-serif" font-size="26" font-weight="bold" fill="#b9a5ff">???<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
+  <text x="124" y="852" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#b9a5ff">fate has not rendered this quest yet</text>
+
+  <line x1="40" y1="930" x2="520" y2="930" stroke="#8f7bd8" stroke-width="1" opacity="0.5"/>
+  <text x="40" y="962" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#cfc3ea">next slot unlocks the day you push something new</text>
+  <text x="520" y="962" text-anchor="end" font-size="18" fill="#ffd76a">✦<animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></text>
 </svg>
